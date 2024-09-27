@@ -4,9 +4,9 @@
    import { Howl } from 'howler';
 
    const stations = [
-     { name: 'Radio One', url: 'https://example.com/radio-one-stream' },
-     { name: 'Sanyu FM', url: 'https://example.com/sanyu-fm-stream' },
-     { name: 'Capital FM', url: 'https://example.com/capital-fm-stream' },
+     { name: 'Radio One', url: 'https://streaming.capitalfm-ug.net' },
+     { name: 'Sanyu FM', url: 'http://radioonefm90.co.ug:8000/stream' },
+     { name: 'Capital FM', url: 'http://cbsradio.streamgates.net/cbsradio' },
    ];
 
    function App() {
